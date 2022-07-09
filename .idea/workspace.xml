@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dac095c-36b9-43a1-a7a4-30a3502fd6ea" name="Default Changelist" comment="" />
+    <list default="true" id="9dac095c-36b9-43a1-a7a4-30a3502fd6ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Book/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booklist/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Booklist/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -132,6 +141,10 @@
       <workItem from="1656311543896" duration="664000" />
       <workItem from="1656390881000" duration="1677000" />
       <workItem from="1656392686390" duration="799000" />
+      <workItem from="1656584157502" duration="27000" />
+      <workItem from="1657255251215" duration="1458000" />
+      <workItem from="1657256865787" duration="883000" />
+      <workItem from="1657344641402" duration="41000" />
     </task>
     <servers />
   </component>
@@ -147,10 +160,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1655951965854" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1656392690866">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1657344735738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1656392690866" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1657344735738" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1657344649027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1657344649027" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1655901055138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -14,6 +14,7 @@ class BookTask(models.Model):
     book = models.FileField(upload_to="static/book",null=True,max_length=1000)
     complete = models.BooleanField(default=False)
     created = models.DateField(auto_now_add=True)
+    
     def __str__(self):
         return self.title
 
