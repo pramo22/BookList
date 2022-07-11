@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9dac095c-36b9-43a1-a7a4-30a3502fd6ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Book/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booklist/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Booklist/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/Videouploader" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RunManager">
@@ -145,6 +143,8 @@
       <workItem from="1657255251215" duration="1458000" />
       <workItem from="1657256865787" duration="883000" />
       <workItem from="1657344641402" duration="41000" />
+      <workItem from="1657425865557" duration="94000" />
+      <workItem from="1657547778120" duration="309000" />
     </task>
     <servers />
   </component>
@@ -164,10 +164,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1657344735738" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1657344649027">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1657425968895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1657344649027" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1657425968895" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1657547789318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1657547789318" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1655901055138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
