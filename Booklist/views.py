@@ -44,7 +44,6 @@ class CreateBook(LoginRequiredMixin,CreateView):
     model = BookTask
     form_class = BookForm
     template_name = "base/create.html"
-    #fields = ['cover','title','price','author','description','book','complete']
     success_message = 'Your submission is successful!'
     success_url = reverse_lazy('index')
     login_url = '/login/'
@@ -59,7 +58,6 @@ class CreateBook(LoginRequiredMixin,CreateView):
 class UpdateBook(LoginRequiredMixin,UpdateView):
     model = BookTask
     template_name = 'base/create.html'
-    #fields = ['cover','title','price','author','description','book','complete']
     success_message = 'Your submission is successful!'
     success_url = reverse_lazy('index')
     form_class = BookForm
